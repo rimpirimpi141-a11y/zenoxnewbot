@@ -1,0 +1,14 @@
+name = "zenoxnewbot"
+main = "worker.js"
+compatibility_date = "2026-11-03"
+compatibility_flags = ["nodejs_compat"]
+
+[[kv_namespaces]]
+binding = "DB"
+id = "6c0887279ba94d15ab351985d495ad41"
+
+[vars]
+ENVIRONMENT = "production"
+OWNER_ID = "8838351233"
+SUPPORT_USERNAME = "@ZenoxWorker"
+FORCE_CHANNEL = "https://t.me/+ukH5GufIKTthNzA9"
